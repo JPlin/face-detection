@@ -21,7 +21,7 @@ pip install face-detection
 ```
 or
 ```bash
-pip install git+https://github.com/elliottzheng/face-detection.git@master
+pip install git+https://github.com/JPlin/face-detection.git
 ```
 
 ## Usage
