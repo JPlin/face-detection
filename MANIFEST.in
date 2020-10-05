@@ -2,6 +2,7 @@ include *.in
 include *.ini
 include *.rst
 include *.txt
+include *.pth
 include LICENSE
 
 global-exclude __pycache__ *.py[cod]
